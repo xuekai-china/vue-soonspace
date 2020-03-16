@@ -1,0 +1,19 @@
+{
+  "name": "vue-soonspace",
+  "version": "0.3.7",
+  "description": "soonspacejs of vue",
+  "main": "src/index.js",
+  "unpkg": "src/index.js",
+  "keywords": [
+    "soonspace",
+    "soonspacejs",
+    "vue-soonspace",
+    "vue-soonspacejs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuekai-china/vue-soonspace.git"
+  },
+  "author": "xuek",
+  "license": "ISC"
+}
