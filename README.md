@@ -12,7 +12,17 @@ yarn add vue-soonspace soonspacejs -save
 
 ## 使用方式
 
-### main.js
+### vue-cli 3.x 及以上
+
+```bash
+vue create my-app
+cd my-app
+vue add vue-soonspace
+```
+
+### vue-cli 2.x
+
+#### main.js
 
 ```js
 import Vue from 'vue'
@@ -28,7 +38,7 @@ new Vue({
 }).$mount('#app')
 ```
 
-### App.vue
+#### App.vue
 ```vue
 <template>
    <vue-soonspace
